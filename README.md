@@ -23,8 +23,8 @@ the following processes:
 - soil pH dynamics and feedback to soil N<sub>2</sub>O and NO emissions
 - phosphorus release during weathering and feedback to ecosystem productivity
 
-The model has been tested in the land-only mode and runs at a speed commensurate
-with the original E3SM Land Model. 
+The model has been tested in the land-only mode at site and contiguous U.S. scales,
+and runs at a speed commensurate with the original E3SM Land Model. 
 
 Funding Source
 --------------------------------------------------------------------------------
